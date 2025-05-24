@@ -5,10 +5,10 @@
 - 💞️ I’m looking to collaborate on ...
 --->
 - 📫 How to reach me  
-     [Website](http://www.thecasualdev.net/)  
+     [Website](http://www.thecasualdev.com/)  
      [LinkedIn](https://www.linkedin.com/in/rondace)  
      [Twitter](https://twitter.com/the_casual_dev)  
-     email:   sayhi@thecasualdev.net  
+     email:   sayhi@thecasualdev.com  
      mobile:  (+60)1169940175
 
 <!---
